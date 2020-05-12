@@ -2,6 +2,4 @@ function fetchMovies() {
 
 }
 
-module.exports = {
-    fetchMovies
-}
+module.exports = fetchMovies;
